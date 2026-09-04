@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=CARLOS%20HENRIQUE&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DEVELOPER%20%7C%20CODE%20%7C%20CREATE%20%7C%20REPEAT&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=00FF9D&text=CARLOS%20HENRIQUE&fontSize=55&fontColor=000000&animation=twinkling&fontAlignY=35&desc=DEVELOPER%20%7C%20CODE%20%7C%20CREATE%20%7C%20REPEAT&descAlignY=60&descSize=18"/>
 
 <br>
 
@@ -42,3 +42,56 @@
 ║  🟢 STATUS     :: ONLINE                                     ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
+╭─────────────────────────────────────────────────────────────╮
+│                                                             │
+│  🐍 PYTHON       ████████████████████░░░░  85%              │
+│                                                             │
+│  🐘 PHP          ██████████████████░░░░░░  80%              │
+│                                                             │
+│  ⚡ LARAVEL      █████████████████░░░░░░░  75%              │
+│                                                             │
+│  🗄️ SQL          ████████████████░░░░░░░░  70%              │
+│                                                             │
+│  🌐 HTML         ██████████████████████░░  90%              │
+│                                                             │
+│  🎨 CSS          ████████████████████░░░░  80%              │
+│                                                             │
+│  ⚙️ JAVASCRIPT   ███████████████░░░░░░░░░  65%              │
+│                                                             │
+╰─────────────────────────────────────────────────────────────╯
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  STATUS: 🟢 ONLINE                                          │
+│                                                             │
+│  > Studying programming                                     │
+│  > Building real projects                                  │
+│  > Improving Backend skills                                 │
+│  > Exploring new technologies                               │
+│  > Creating applications                                    │
+│  > Solving problems                                         │
+│                                                             │
+│  ████████████████████████████████████████████               │
+│                                                             │
+│                    MISSION IN PROGRESS                      │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║                       PROJECT DATABASE                       ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  💻 WEB APPLICATIONS                                         ║
+║                                                              ║
+║  ⚡ LARAVEL SYSTEMS                                          ║
+║                                                              ║
+║  🐍 PYTHON PROJECTS                                          ║
+║                                                              ║
+║  🗄️ DATABASE APPLICATIONS                                    ║
+║                                                              ║
+║  🌐 RESPONSIVE WEBSITES                                      ║
+║                                                              ║
+║  🔌 REST APIs                                                ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════╗
+║       PLAYER INFORMATION              ║
+╚══════════════════════════════════════╝
